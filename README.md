@@ -32,7 +32,7 @@ This GeoAI framework aims to transform how we process, analyze, and interpret ge
 
 |Abbreviation|Title|Publication|Paper/Website|Code & Weights|
 |:---:|---|:---:|:---:|:---:|
-|**Clay**|**Clay Foundation Model**|null|[GeoKR](https://ieeexplore.ieee.org/abstract/document/9559903)|[link](https://github.com/flyakon/Geographical-Knowledge-driven-Representaion-Learning)|
+|**Clay**|**Clay Foundation Model**|null|null|[link](https://github.com/Clay-foundation/model)|
 |**Privthi**|**NASA IBM AI Foundation Model for Earth Observations**|arXiv|[Privthi](https://arxiv.org/abs/2310.18660)|[link](https://huggingface.co/ibm-nasa-geospatial)|
 |**earthPT**|**ASPIASPACE’s earthPT**|arXiv|[earthPT](https://arxiv.org/abs/2309.07207)|[link](https://github.com/aspiaspace/earthPT)|
 |**SAM2**|**Meta's Segment Anything Model 2**|TGRS2021|[SAM2](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/)|[link](https://github.com/facebookresearch/sam2)|
