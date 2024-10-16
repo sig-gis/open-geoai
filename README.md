@@ -9,6 +9,8 @@
 ## Context and background
 The rapid advancements in artificial intelligence (AI) and geospatial technologies have paved the way for the development of Geospatial AI (GeoAI) strategies, enabling organizations to harness AI for complex geospatial analysis. This repository is a one-stop shop that brings together the resources for practical GeoAI applications for students, practitioners, and scientists. This initivative is founded on open science principles and building capacity to make this exciting technology available to everyone.
 
+![alt text](https://github.com/sig-gis/open-geoai/blob/a1655db3e0970dabffb1623351c812d2f430a390/docs/images/eo_frameworks.png?raw=true)
+
 ## Vision and Strategic Objectives
 
 ### Vision 
